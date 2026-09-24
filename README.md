@@ -2,11 +2,13 @@
 
 **Search or click an app to hop to.**
 
+![HopKey with nothing typed: the three most recent windows with snapshots, then the rest as a plain list](preview.png)
+
 An overlay plugin for the Omarchy Quattro shell. The window you want is already
 open — it's just on another workspace, another monitor, or buried three deep in
 the tile stack. HopKey gets you there in one hop: hit the key, type a couple of
 letters, press Enter, and you're on that window instead of cycling through
-Alt-Tab.
+Alt-Tab. Or type a number to jump to that workspace.
 
 With Chrome, Grok, Claude Code, VS Code and LibreOffice open, `Ch` + Enter hops
 to Chrome. Hyprland switches workspaces on the way if the window is on another
